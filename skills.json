@@ -1,0 +1,51 @@
+[
+    {
+        "name": "GNU/Linux",
+        "icon": "./assets/images/skills/linux.png"
+    },
+    {
+        "name": "Apache",
+        "icon": "./assets/images/skills/apache.png"
+    },
+    {
+        "name": "Python",
+        "icon": "./assets/images/skills/python.png"
+    },
+    {
+        "name": "Bash",
+        "icon": "./assets/images/skills/bash.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "./assets/images/skills/html.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "./assets/images/skills/css.png"
+    },
+    {
+        "name": "Metasploit",
+        "icon": "./assets/images/skills/metasploit.png"
+    },
+    {
+        "name": "Burpsuite",
+        "icon": "./assets/images/skills/burpsuite.png"
+    },
+    {
+        "name": "VirtualBox",
+        "icon": "./assets/images/skills/virtualbox.png"
+    },
+    {
+        "name": "ANSSI",
+        "icon": "./assets/images/skills/anssi.png"
+    },
+    {
+        "name": "Github",
+        "icon": "./assets/images/skills/github.png"
+
+    },
+    {
+        "name": "WireShark",
+        "icon": "./assets/images/skills/wireshark.png"
+    }
+]

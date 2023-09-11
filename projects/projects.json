@@ -1,0 +1,32 @@
+[
+  {
+    "name": "BerryRadio",
+    "desc": "Réalisation d'une station radio à l'aide d'un raspberry-pi.",
+    "image": "raspberry",
+    "category": "mern",
+    "links": {
+      "view": "https://rqlcs.github.io/blog/BerryRadio.html",
+      "code": "https://github.com/rqlcs/BerryRadio"
+    }
+  },
+  {
+    "name": "DualBoot ArchLinux Windows",
+    "desc": "Installation de poste en dualboot ArchLinux, Windows 7. (upload prochainement)",
+    "image": "archboot",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/rqlcs",
+      "code": "https://github.com/rqlcs"
+    }
+  },
+  {
+    "name": "Write-up CTF",
+    "desc": "Quelques write-ups issu de CTF différents. (création en cours..)",
+    "image": "capturetheflag",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/rqlcs",
+      "code": "https://github.com/rqlcs"
+    }
+  }
+]
