@@ -16,12 +16,12 @@
         "icon": "./assets/images/skills/bash.png"
     },
     {
-        "name": "HTML5",
-        "icon": "./assets/images/skills/html.png"
+        "name": "WireShark",
+        "icon": "./assets/images/skills/wireshark.png"
     },
     {
-        "name": "CSS3",
-        "icon": "./assets/images/skills/css.png"
+        "name": "Github",
+        "icon": "./assets/images/skills/github.png"
     },
     {
         "name": "Metasploit",
@@ -40,12 +40,12 @@
         "icon": "./assets/images/skills/anssi.png"
     },
     {
-        "name": "Github",
-        "icon": "./assets/images/skills/github.png"
+        "name": "CSS3",
+        "icon": "./assets/images/skills/css.png"
 
     },
     {
-        "name": "WireShark",
-        "icon": "./assets/images/skills/wireshark.png"
+        "name": "HTML5",
+        "icon": "./assets/images/skills/html.png"
     }
 ]
