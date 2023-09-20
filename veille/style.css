@@ -1,0 +1,116 @@
+#petitephrase{
+    animation: slideInFromLeft 1s ease-in-out; /* Nom de l'animation, durée, fonction de temporisation */
+}
+.parallax-container {
+    position: relative;
+    height: 90vh;
+    overflow: hidden;
+    animation: slideInFromLeft 1s ease-in-out; /* Nom de l'animation, durée, fonction de temporisation */
+}
+
+.parallax-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 75%;
+            background-image: url('https://media.lesechos.com/api/v1/images/view/629f7d1cd2c56301904e9a67/1280x720/0701732780474-web-tete.jpg'); /* Remplacez 'votre-image.jpg' par le chemin de votre image */
+            background-size: cover;
+            background-position: center;
+            transform: translateZ(0);
+            z-index: -1;
+            animation: slideInFromLeft 1s ease-in-out; /* Nom de l'animation, durée, fonction de temporisation */
+}
+
+.content {
+    padding: 100px;
+    text-align: center;
+    color: black;
+    font-size: 24px;
+    z-index: 1;
+    animation: slideInFromLeft 1s ease-in-out; /* Nom de l'animation, durée, fonction de temporisation */
+}
+@keyframes slideInFromLeft {
+    0% {
+        transform: translateX(-100%); /* Déplacez l'élément en dehors de l'écran à gauche */
+    }
+    100% {
+        transform: translateX(0); /* Déplacez l'élément vers le centre de la page */
+    }
+}
+#feed-table {
+    animation: slideInFromLeft 1s ease-in-out; /* Nom de l'animation, durée, fonction de temporisation */
+    margin-top: 0;
+}
+
+/* Style CSS pour le centrage du tableau */
+#rss-feed {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Centrer verticalement */
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 2px solid black;
+    padding: 8px;
+    font-size: 15px;
+    font-color: white;
+    text-align: left; /* Aligner le texte à gauche */
+    font-style: italic; /* Mettre le texte en italique */
+}
+.image-cell img {
+    max-width: 30px; /* Taille de l'image */
+    max-height: 30px;
+    vertical-align: middle; /* Aligner verticalement l'image au milieu du texte */
+    margin-right: 5px; /* Marge à droite de l'image pour l'espacement */
+}
+.rss-png {
+    max-width: 20px; /* Taille de l'image */
+    max-height: 20px;
+    vertical-align: middle; /* Aligner verticalement l'image au milieu du texte */
+    margin-right: 5px; /* Marge à droite de l'image pour l'espacement */
+}
+
+ @media screen and (max-width: 767px) {
+
+      /* Style CSS pour le centrage du tableau */
+      #rss-feed {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Centrer verticalement */
+      }
+      table {
+        border-collapse: collapse;
+        border-radius: 10px; /* Arrondir les bords du tableau */
+        overflow: hidden; /* Masquer les coins arrondis qui dépassent */
+        width: 100%; /* Largeur du tableau */
+        max-width: 400px; /* Largeur maximale du tableau */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre autour du tableau */
+      }
+      th, td {
+        border: none; /* Supprimer les bordures des cellules */
+        padding: 8px;
+        font-size: 10px;
+        text-align: center; /* Centrer le texte horizontalement */
+        font-style: italic; /* Mettre le texte en italique */
+      }
+      .image-cell img {
+        max-width: 20px; /* Taille de l'image */
+        max-height: 20px;
+        vertical-align: middle; /* Aligner verticalement l'image au milieu du texte */
+        margin-right: 5px; /* Marge à droite de l'image pour l'espacement */
+      }
+      .rss-png {
+        max-width: 20px; /* Taille de l'image */
+        max-height: 20px;
+        vertical-align: middle; /* Aligner verticalement l'image au milieu du texte */
+        margin-right: 5px; /* Marge à droite de l'image pour l'espacement */
+      }
+      .title-cell {
+        text-align: center; /* Centrer le texte horizontalement dans la cellule */
+      }
+ }
