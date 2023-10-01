@@ -59,7 +59,7 @@ $(document).ready(function () {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["cyber-securite", "administration systeme", "web designing", "Capture The Flag", "Pentesting"],
+    strings: ["cyber-securite", "administration systeme", "IT Student", "networking", "Capture The Flag", "Pentesting"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
