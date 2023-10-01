@@ -11,11 +11,11 @@
   },
   {
     "name": "DualBoot ArchLinux Windows",
-    "desc": "Installation de poste en dualboot ArchLinux, Windows 7. (upload prochainement)",
+    "desc": "Installation de poste en dualboot ArchLinux, Windows 7. (Part2 soon..)",
     "image": "archboot",
     "category": "mern",
     "links": {
-      "view": "https://github.com/rqlcs",
+      "view": "https://rqlcs.github.io/blog/notice_dualboot_part1.html",
       "code": "https://github.com/rqlcs"
     }
   },
