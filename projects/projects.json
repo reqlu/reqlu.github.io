@@ -5,7 +5,7 @@
     "image": "raspberry",
     "category": "mern",
     "links": {
-      "view": "https://rqlcs.github.io/blog/BerryRadio.html",
+      "view": "/blog/berryradio/",
       "code": "https://github.com/rqlcs/BerryRadio"
     }
   },
@@ -15,7 +15,7 @@
     "image": "archboot",
     "category": "mern",
     "links": {
-      "view": "https://rqlcs.github.io/blog/notice_dualboot_part1.html",
+      "view": "/blog/dualboot-arch-windows/",
       "code": "https://github.com/rqlcs"
     }
   },
