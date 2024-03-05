@@ -22,7 +22,7 @@
   {
     "name": "Write-up CTF",
     "desc": "Quelques write-ups issu de différents CTFs !",
-    "image": "capturetheflag",
+    "image": "ctfimg",
     "category": "mern",
     "links": {
       "view": "https://ctf.reqlu.fr",
