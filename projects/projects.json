@@ -11,7 +11,7 @@
   },
   {
     "name": "DualBoot ArchLinux Windows",
-    "desc": "Installation de poste en dualboot ArchLinux, Windows 7. (Part2 soon..)",
+    "desc": "Installation de poste en dualboot ArchLinux, Windows 7.",
     "image": "archboot",
     "category": "mern",
     "links": {
@@ -21,12 +21,12 @@
   },
   {
     "name": "Write-up CTF",
-    "desc": "Quelques write-ups issu de CTF différents. (création en cours..)",
+    "desc": "Quelques write-ups issu de différents CTFs !",
     "image": "capturetheflag",
     "category": "mern",
     "links": {
-      "view": "https://github.com/rqlcs",
-      "code": "https://github.com/rqlcs"
+      "view": "https://ctf.reqlu.fr",
+      "code": "https://ctf.reqlu.fr"
     }
   }
 ]
