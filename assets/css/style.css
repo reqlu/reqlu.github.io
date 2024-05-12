@@ -19,7 +19,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  /* background: #f7f7f7; */
+  /* background: #f7f7f7; Light Mode */
   background: #5e5959;
   font-family: "Poppins", sans-serif;
 }
@@ -839,7 +839,8 @@ header .navbar ul li a:hover {
   left: -16px;
 }
 .experience .content {
-  background-color: #f68c09;
+  /* background-color: #f68c09; Light Mode */
+  background-color: #474545;
   position: relative;
   border-radius: 6px;
 }
