@@ -3,7 +3,7 @@
 }
 .parallax-container {
     position: relative;
-    height: 90vh;
+    height: 70vh;
     overflow: hidden;
     animation: slideInFromLeft 1s ease-in-out; /* Nom de l'animation, durée, fonction de temporisation */
 }
@@ -49,6 +49,15 @@
     justify-content: center;
     align-items: center;
     height: 100vh; /* Centrer verticalement */
+    
+}
+
+#rss-feed a {
+  color: white;
+}
+
+#rss-feed a:hover {
+  color: blue;
 }
 table {
     border-collapse: collapse;
@@ -94,7 +103,7 @@ th, td {
       th, td {
         border: none; /* Supprimer les bordures des cellules */
         padding: 8px;
-        font-size: 10px;
+        font-size: 13px;
         text-align: center; /* Centrer le texte horizontalement */
         font-style: italic; /* Mettre le texte en italique */
       }
