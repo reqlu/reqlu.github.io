@@ -26,7 +26,7 @@
 .content {
     padding: 100px;
     text-align: center;
-    color: black;
+    color: white;
     font-size: 24px;
     z-index: 1;
     animation: slideInFromLeft 1s ease-in-out;
@@ -61,11 +61,11 @@
 
 /* Style des liens */
 #rss-feed a {
-    color: white;
+    color: black;
 }
 
 #rss-feed a:hover {
-    color: blue;
+    color: #ccd6f6;
 }
 
 /* Style des tableaux */
@@ -78,7 +78,7 @@ th, td {
     border: 2px solid black;
     padding: 8px;
     font-size: 15px;
-    font-color: white;
+    color: #ccd6f6;
     text-align: left;
     font-style: italic;
 }
