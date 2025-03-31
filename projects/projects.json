@@ -1,6 +1,6 @@
 [
   {
-    "name": "BerryRadio",
+    "name": "BerryRadio - FM Station",
     "desc": "Réalisation d'une station radio à l'aide d'un raspberry-pi.",
     "image": "raspberry",
     "category": "mern",
